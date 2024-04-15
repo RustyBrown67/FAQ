@@ -1,0 +1,24 @@
+[
+  {
+    "question" : "How do I choose the maximum number of resturants get returned in my search?",
+    "sortOrder" : 1,
+    "level" : 1,
+    "answer" : "In the Settings page, choose between the 3 pre-defined search quantity, see image below.",
+    "linkType" : "Local Image",
+    "link" : {
+      "title" : "Restaurent Search Quantity",
+      "url" : "SearchRadius.png"
+    }
+  },
+  {
+    "link" : {
+      "title" : "Search Radius",
+      "url" : "SearchRadius.png"
+    },
+    "linkType" : "Local Image",
+    "sortOrder" : 2,
+    "question" : "How do I set the distance radius search for suitable restaurants?",
+    "level" : 1,
+    "answer" : "From the settings page, you can choose between 4 pre-defined options, see image below."
+  }
+]
